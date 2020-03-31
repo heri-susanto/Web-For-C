@@ -1,0 +1,13 @@
+-----------------------------------------------------------
+1. File koneksi  : /config/koneksi.php
+2. Halaman admin : /adminweb
+3. Username      : admin
+   Password      : admin
+-----------------------------------------------------------
+Lakukan konfigurasi di halaman admin pada tab Identitas Web
+ - Rubah Alamat Website sesuai nama folder di server anda
+-----------------------------------------------------------
+
+Need help? Contact Us at 081227303367 or line : noobsh
+
+Thanks :D
